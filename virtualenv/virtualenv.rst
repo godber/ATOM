@@ -119,7 +119,8 @@ References
 
 * `virtualenv <http://pypi.python.org/pypi/virtualenv>`_
 * `virtualenvwrapper <http://www.doughellmann.com/projects/virtualenvwrapper/>`_
-
+* `P5M1 Orbital Image <http://en.wikipedia.org/wiki/File:P5M1.png>`_
+* Presentation Source - http://github.com/godber/ATOM
 
 .. header::
 
