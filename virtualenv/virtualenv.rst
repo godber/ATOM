@@ -8,9 +8,10 @@ Simplify your python project dependency management.
 * Austin Godber
 * Mail: godber@uberhip.com
 * Twitter: @godber
+* Source: http://github.com/godber/ATOM
 
-.. image:: P5M1.png
-    :width: 3.5cm
+.. image:: P5M1-vertical.png
+    :height: 2.5cm
     :align: right
 
 .. raw:: pdf
