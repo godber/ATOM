@@ -76,7 +76,7 @@ How to use it.
 Activate!
 ::
 
-  project1/bin/activate
+  source project1/bin/activate
 
 Work!
 ::
