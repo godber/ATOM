@@ -34,7 +34,7 @@ Installing with easy_install::
 
   sudo easy_install virtualenv
 
-Using it::
+Creating environments::
 
   virtualenv <envname>
   virtualenv project1
