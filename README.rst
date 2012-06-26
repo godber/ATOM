@@ -3,7 +3,7 @@ ATOM
 
 These are presentations that Austin has given as part of his ATOM presentations
 (Austin's Thing of the Month lightning presentations).  These are all intended
-as brief, ~15 min, lighting talks.
+as brief, ~15 min, lighting talks.  Thank you.
 
 Presentations
 =============
