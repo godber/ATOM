@@ -4,7 +4,7 @@ ATOM
 These are presentations that Austin has given as part of his ATOM presentations
 (Austin's Thing of the Month lightning presentations).  Many of these are
 intended as brief, ~15 min, lighting talks.  Feel free to reuse or provide
-feedback or pull requests.  There are a few known bugs.
+feedbackm, file issues or make pull requests.  There are a few known bugs.
 
 Presentations
 =============
