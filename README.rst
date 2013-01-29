@@ -2,20 +2,23 @@ ATOM
 ~~~~
 
 These are presentations that Austin has given as part of his ATOM presentations
-(Austin's Thing of the Month lightning presentations).  These are all intended
-as brief, ~15 min, lighting talks.  Thank you.
+(Austin's Thing of the Month lightning presentations).  Many of these are
+intended as brief, ~15 min, lighting talks.  Feel free to reuse or provide
+feedback or pull requests.  There are a few known bugs.
 
 Presentations
 =============
 
  * virtualenv - Python's virtualenv and virtualenvwrapper projects.
+ * aws-python-boto - Using Python's AWS library boto.
+ * python_testing - A broad overview of testing in the python world.
 
 License and Copyright
 =====================
 
 ::
 
-    Copyright (c) 2010 Austin Godber <godber@uberhip.com>
+    Copyright (c) 2010-2013 Austin Godber <godber@uberhip.com>
 
   Permission is hereby granted, free of charge, to any person obtaining a copy
   of this software and associated documentation files (the "Software"), to deal
