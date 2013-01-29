@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="generator" content="Docutils 0.6: http://docutils.sourceforge.net/" />
+<meta name="version" content="S5 1.1" />
+<title>Amazon Web Services with Python and Boto</title>
+<style type="text/css">
+
+.highlight .hll { background-color: #333333 }
+.highlight  { background: #111111; color: #ffffff }
+.highlight .c { color: #008800; font-style: italic; background-color: #0f140f } /* Comment */
+.highlight .err { color: #ffffff } /* Error */
+.highlight .g { color: #ffffff } /* Generic */
+.highlight .k { color: #fb660a; font-weight: bold } /* Keyword */
+.highlight .l { color: #ffffff } /* Literal */
+.highlight .n { color: #ffffff } /* Name */
+.highlight .o { color: #ffffff } /* Operator */
+.highlight .x { color: #ffffff } /* Other */
+.highlight .p { color: #ffffff } /* Punctuation */
+.highlight .cm { color: #008800; font-style: italic; background-color: #0f140f } /* Comment.Multiline */
+.highlight .cp { color: #ff0007; font-weight: bold; font-style: italic; background-color: #0f140f } /* Comment.Preproc */
+.highlight .c1 { color: #008800; font-style: italic; background-color: #0f140f } /* Comment.Single */
+.highlight .cs { color: #008800; font-style: italic; background-color: #0f140f } /* Comment.Special */
+.highlight .gd { color: #ffffff } /* Generic.Deleted */
+.highlight .ge { color: #ffffff } /* Generic.Emph */
+.highlight .gr { color: #ffffff } /* Generic.Error */
+.highlight .gh { color: #ffffff; font-weight: bold } /* Generic.Heading */
+.highlight .gi { color: #ffffff } /* Generic.Inserted */
+.highlight .go { color: #444444; background-color: #222222 } /* Generic.Output */
+.highlight .gp { color: #ffffff } /* Generic.Prompt */
+.highlight .gs { color: #ffffff } /* Generic.Strong */
+.highlight .gu { color: #ffffff; font-weight: bold } /* Generic.Subheading */
+.highlight .gt { color: #ffffff } /* Generic.Traceback */
+.highlight .kc { color: #fb660a; font-weight: bold } /* Keyword.Constant */
+.highlight .kd { color: #fb660a; font-weight: bold } /* Keyword.Declaration */
+.highlight .kn { color: #fb660a; font-weight: bold } /* Keyword.Namespace */
+.highlight .kp { color: #fb660a } /* Keyword.Pseudo */
+.highlight .kr { color: #fb660a; font-weight: bold } /* Keyword.Reserved */
+.highlight .kt { color: #cdcaa9; font-weight: bold } /* Keyword.Type */
+.highlight .ld { color: #ffffff } /* Literal.Date */
+.highlight .m { color: #0086f7; font-weight: bold } /* Literal.Number */
+.highlight .s { color: #0086d2 } /* Literal.String */
+.highlight .na { color: #ff0086; font-weight: bold } /* Name.Attribute */
+.highlight .nb { color: #ffffff } /* Name.Builtin */
+.highlight .nc { color: #ffffff } /* Name.Class */
+.highlight .no { color: #0086d2 } /* Name.Constant */
+.highlight .nd { color: #ffffff } /* Name.Decorator */
+.highlight .ni { color: #ffffff } /* Name.Entity */
+.highlight .ne { color: #ffffff } /* Name.Exception */
+.highlight .nf { color: #ff0086; font-weight: bold } /* Name.Function */
+.highlight .nl { color: #ffffff } /* Name.Label */
+.highlight .nn { color: #ffffff } /* Name.Namespace */
+.highlight .nx { color: #ffffff } /* Name.Other */
+.highlight .py { color: #ffffff } /* Name.Property */
+.highlight .nt { color: #fb660a; font-weight: bold } /* Name.Tag */
+.highlight .nv { color: #fb660a } /* Name.Variable */
+.highlight .ow { color: #ffffff } /* Operator.Word */
+.highlight .w { color: #888888 } /* Text.Whitespace */
+.highlight .mf { color: #0086f7; font-weight: bold } /* Literal.Number.Float */
+.highlight .mh { color: #0086f7; font-weight: bold } /* Literal.Number.Hex */
+.highlight .mi { color: #0086f7; font-weight: bold } /* Literal.Number.Integer */
+.highlight .mo { color: #0086f7; font-weight: bold } /* Literal.Number.Oct */
+.highlight .sb { color: #0086d2 } /* Literal.String.Backtick */
+.highlight .sc { color: #0086d2 } /* Literal.String.Char */
+.highlight .sd { color: #0086d2 } /* Literal.String.Doc */
+.highlight .s2 { color: #0086d2 } /* Literal.String.Double */
+.highlight .se { color: #0086d2 } /* Literal.String.Escape */
+.highlight .sh { color: #0086d2 } /* Literal.String.Heredoc */
+.highlight .si { color: #0086d2 } /* Literal.String.Interpol */
+.highlight .sx { color: #0086d2 } /* Literal.String.Other */
+.highlight .sr { color: #0086d2 } /* Literal.String.Regex */
+.highlight .s1 { color: #0086d2 } /* Literal.String.Single */
+.highlight .ss { color: #0086d2 } /* Literal.String.Symbol */
+.highlight .bp { color: #ffffff } /* Name.Builtin.Pseudo */
+.highlight .vc { color: #fb660a } /* Name.Variable.Class */
+.highlight .vg { color: #fb660a } /* Name.Variable.Global */
+.highlight .vi { color: #fb660a } /* Name.Variable.Instance */
+.highlight .il { color: #0086f7; font-weight: bold } /* Literal.Number.Integer.Long */
+
+</style>
+<!-- configuration parameters -->
+<meta name="defaultView" content="slideshow" />
+<meta name="controlVis" content="hidden" />
+<!-- style sheet links -->
+<script src="ui/default/slides.js" type="text/javascript"></script>
+<link rel="stylesheet" href="ui/default/slides.css"
+      type="text/css" media="projection" id="slideProj" />
+<link rel="stylesheet" href="ui/default/outline.css"
+      type="text/css" media="screen" id="outlineStyle" />
+<link rel="stylesheet" href="ui/default/print.css"
+      type="text/css" media="print" id="slidePrint" />
+<link rel="stylesheet" href="ui/default/opera.css"
+      type="text/css" media="projection" id="operaFix" />
+
+<style type="text/css">
+#currentSlide {display: none;}
+</style>
+</head>
+<body>
+<div class="layout">
+<div id="controls"></div>
+<div id="currentSlide"></div>
+<div id="header">
+
+</div>
+<div id="footer">
+<h1>Amazon Web Services with Python and Boto</h1>
+<h2>Copyright Austin Godber, 2011</h2>
+</div>
+</div>
+<div class="presentation">
+<div class="slide" id="slide0">
+<h1 class="title">Amazon Web Services with Python and Boto</h1>
+
+<p>Austin Godber | &#64;godber | <a class="reference external" href="mailto:godber&#64;uberhip.com">godber&#64;uberhip.com</a></p>
+
+</div>
+<div class="slide" id="overview-of-aws">
+<h1>Overview of AWS</h1>
+<p><a class="reference external" href="http://aws.amazon.com/">Amazon Web Services</a> includes the following services:</p>
+<ul class="simple">
+<li><strong>EC2</strong> - Elastic Compute Cloud, Dynamically launch and manage virtual
+machines, EBS, Cloud Watch</li>
+<li><strong>S3</strong> - Simple Storage Service, Store and retrieve files over HTTP</li>
+<li><strong>SNS</strong> - Simple Notification Service, Send email or webhook based notifications</li>
+<li><strong>SQS</strong> - Simple Queue Service, Send messages through a global queue, Cloud
+Front</li>
+<li><strong>RDS</strong> - Relational Database Service, Managed MySQL Service</li>
+</ul>
+</div>
+<div class="slide" id="other-aws-services">
+<h1>Other AWS Services</h1>
+<p>There are quite a few other AWS Services that won't be covered here:</p>
+<ul class="simple">
+<li>Elastic MapReduce</li>
+<li>SimpleDB</li>
+<li>Elastic Beanstalk</li>
+<li>CloudFormation</li>
+<li>Simple Email Service</li>
+<li>Route 53</li>
+<li>Virtual Private Cloud</li>
+<li>Elastic Load Balancing</li>
+<li>Flexible Payment Services</li>
+</ul>
+</div>
+<div class="slide" id="other-aws-utilities">
+<h1>Other AWS Utilities</h1>
+<p>There are non programatic ways of interacting with AWS.</p>
+<ul class="simple">
+<li><a class="reference external" href="http://console.aws.amazon.com/">http://console.aws.amazon.com/</a></li>
+<li>Firefox Plugins<ul>
+<li>ElasticFox</li>
+<li>S3 Organizer</li>
+</ul>
+</li>
+<li>s3sync</li>
+<li>Amazon provides command line tools as well but they are spread all over the
+place, a nuisance to setup, and rev too often to be convenient.</li>
+</ul>
+</div>
+<div class="slide" id="overview-of-boto">
+<h1>Overview of Boto</h1>
+<p>Boto is the python library that interacts with these services.  It is kept well
+in sync with new services, which is very impressive.</p>
+<ul class="simple">
+<li>Docs: <a class="reference external" href="http://boto.cloudhackers.com/">http://boto.cloudhackers.com/</a></li>
+<li>Project: <a class="reference external" href="http://code.google.com/p/boto/">http://code.google.com/p/boto/</a></li>
+<li>Github: <a class="reference external" href="https://github.com/boto/boto">https://github.com/boto/boto</a></li>
+</ul>
+</div>
+<div class="slide" id="understanding-ec2">
+<h1>Understanding EC2</h1>
+<ul class="simple">
+<li>Availability Zones are &quot;isolated&quot; data centers within regions.</li>
+<li><strong>AMI</strong> - Amazon Machine Image; pre Existing or make your own</li>
+<li><strong>Instance</strong> - An instance of a running AMI and the resources allocated to it.</li>
+<li><strong>Pricing</strong> - Pay as you go, by resource consumption<ul>
+<li>Compute Time - On demand, Spot, Reserved Pricing</li>
+<li>Bandwidth - In and Out</li>
+<li>Extras - EBS (Disk), Elastic IP, Cloud Watch, Load Balancing</li>
+</ul>
+</li>
+<li>Security Groups - Firewall Rules</li>
+<li>NAT - Public Address and Private Address, Elastic IP</li>
+<li>Not optimized for single stack applications but for custom distributed
+systems.</li>
+</ul>
+</div>
+<div class="slide" id="launching-an-ami-with-boto">
+<h1>Launching an AMI with Boto</h1>
+<p>See ec2-example1.py</p>
+<p>Advanced Features:</p>
+<ul class="simple">
+<li>User Data - <a class="reference external" href="https://help.ubuntu.com/community/CloudInit">Ubuntu CloudInit</a></li>
+<li>EBS Volumes</li>
+<li>Elastic IPs</li>
+</ul>
+</div>
+<div class="slide" id="understanding-s3">
+<h1>Understanding S3</h1>
+<p>The AWS Simple Storage Service is a basic data store that can be written to over
+HTTP and read via HTTP or BitTorrent.</p>
+<ul class="simple">
+<li>Buckets, keys and metadata.</li>
+<li>Access Control - By AWS user or though signed URLs.</li>
+<li>Versioning</li>
+<li>Reduced redundancy</li>
+<li>AWS Import/Export - Sneakernet</li>
+<li>DNS CNAME, Index and Error Documenent mapping, good for static sites (blogophile)</li>
+<li>CloudFront - Content Distribution Network</li>
+</ul>
+</div>
+<div class="slide" id="uploading-files-to-s3">
+<h1>Uploading Files to S3</h1>
+<p>For example, see the build function in the fabfile for this presentation:</p>
+<div class="highlight"><pre><span class="kn">import</span> <span class="nn">boto</span>
+<span class="n">c</span> <span class="o">=</span> <span class="n">boto</span><span class="o">.</span><span class="n">connect_s3</span><span class="p">()</span>
+<span class="n">b</span> <span class="o">=</span> <span class="n">c</span><span class="o">.</span><span class="n">get_bucket</span><span class="p">(</span><span class="s">&#39;presentations.uberhip.com&#39;</span><span class="p">)</span>
+<span class="n">k</span> <span class="o">=</span> <span class="n">boto</span><span class="o">.</span><span class="n">s3</span><span class="o">.</span><span class="n">Key</span><span class="p">(</span><span class="n">b</span><span class="p">)</span>
+<span class="n">k</span><span class="o">.</span><span class="n">key</span> <span class="o">=</span> <span class="s">&quot;aws-python-boto/index.html&quot;</span>
+<span class="n">k</span><span class="o">.</span><span class="n">set_contents_from_filename</span><span class="p">(</span>
+  <span class="s">&quot;aws-python-boto/index.html&quot;</span>
+  <span class="p">)</span>
+<span class="n">k</span><span class="o">.</span><span class="n">set_acl</span><span class="p">(</span><span class="s">&#39;public-read&#39;</span><span class="p">)</span>
+<span class="n">k</span><span class="o">.</span><span class="n">set_metadata</span><span class="p">(</span><span class="s">&#39;Content-Type&#39;</span><span class="p">,</span><span class="s">&#39;text/html&#39;</span><span class="p">)</span>
+</pre></div>
+</div>
+<div class="slide" id="understanding-sqs">
+<h1>Understanding SQS</h1>
+<p>SQS is a reliable hosted queueing solution.</p>
+<ul class="simple">
+<li>Messages can remain in queue for 14 days.</li>
+<li>Messages are set to be invisible upon read as a locking mechanism.  These
+locks expire.</li>
+<li>Queues can be shared with various access control.</li>
+<li>See sqs-example1.py</li>
+</ul>
+</div>
+<div class="slide" id="understanding-sns">
+<h1>Understanding SNS</h1>
+<p>The Simple Notification Service is a robust, hosted notification service.
+Notifications can be in the form of email, HTTP(S) webhooks, or SQS.</p>
+<ul class="simple">
+<li>Topics</li>
+<li>Policy Management<ul>
+<li>Subscribers</li>
+<li>Publishers</li>
+</ul>
+</li>
+<li>Manage on web or with boto</li>
+</ul>
+</div>
+<div class="slide" id="sns-publish-example-with-boto">
+<h1>SNS Publish Example with Boto</h1>
+<p>Notice there is no access control or authentication.</p>
+<div class="highlight"><pre><span class="c"># Publish a message to a topic</span>
+<span class="kn">import</span> <span class="nn">boto</span>
+<span class="n">c</span> <span class="o">=</span> <span class="n">boto</span><span class="o">.</span><span class="n">connect_sns</span><span class="p">()</span>
+<span class="n">c</span><span class="o">.</span><span class="n">publish</span><span class="p">(</span>
+  <span class="c"># The Topic&#39;s ARN</span>
+  <span class="s">&#39;arn:aws:sns:us-east-1:104167845052:test_topic&#39;</span><span class="p">,</span>
+  <span class="c"># The message</span>
+  <span class="s">&#39;test publish&#39;</span>
+<span class="p">)</span>
+</pre></div>
+</div>
+<div class="slide" id="understanding-rds">
+<h1>Understanding RDS</h1>
+<p>The Relational Database Service provides a hosted MySQL service and offers
+advanced features.</p>
+<ul class="simple">
+<li>Use boto to<ul>
+<li>Create/Delete DBs</li>
+<li>Replicate DBs</li>
+<li>Create/Delete/Restore Snapshots</li>
+</ul>
+</li>
+<li>These are AMIs too, so they have instance types and storage size.</li>
+<li>Think of it as an API to a MySQL host and MySQL admin.  At the DB level, its
+interacted with via a mysql client library or shell.</li>
+</ul>
+</div>
+<div class="slide" id="thanks">
+<h1>Thanks</h1>
+<ul class="simple">
+<li>Thanks to the authors and documentors of the Boto library, from which I have derived my examples:<ul>
+<li><a class="reference external" href="http://boto.cloudhackers.com/">http://boto.cloudhackers.com/</a></li>
+</ul>
+</li>
+<li>Thanks Morgan for his post on code snippets and S5.<ul>
+<li><a class="reference external" href="http://morgangoose.com/blog/2010/09/12/using-rst-for-presentations/">http://morgangoose.com/blog/2010/09/12/using-rst-for-presentations/</a></li>
+</ul>
+</li>
+<li>This work is licensed under the Attribution 3.0 Unported (CC BY 3.0) license:<ul>
+<li><a class="reference external" href="http://creativecommons.org/licenses/by/3.0/">http://creativecommons.org/licenses/by/3.0/</a></li>
+</ul>
+</li>
+<li>Available online<ul>
+<li>Source: <a class="reference external" href="https://github.com/godber/presentations/">https://github.com/godber/presentations/</a></li>
+<li>Viewable: <a class="reference external" href="http://presentations.uberhip.com/aws-python-boto/">http://presentations.uberhip.com/aws-python-boto/</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</body>
+</html>
