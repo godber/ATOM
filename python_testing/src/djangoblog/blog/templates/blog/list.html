@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{% block pagetitle %}Blog{% endblock %}
+{% block title %}My Page Headline{% endblock %}
+{% block primary %}
+{% for object in latest %}
+
+	<h2>{{ object.title }}</h2>
+	<p>{{ object.pub_date }}</p>
+	 {{ object.body_html|truncatewords_html:"20"|safe }}
+
+{% endfor %}
+{% endblock %}

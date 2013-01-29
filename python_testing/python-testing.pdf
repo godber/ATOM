@@ -1,0 +1,3596 @@
+%PDF-1.4
+%“Œ‹ž ReportLab Generated PDF document http://www.reportlab.com
+% 'BasicFonts': class PDFDictionary 
+1 0 obj
+% The standard fonts dictionary
+<< /F1 2 0 R
+ /F2 3 0 R
+ /F3 9 0 R
+ /F4 14 0 R
+ /F5 15 0 R >>
+endobj
+% 'F1': class PDFType1Font 
+2 0 obj
+% Font Helvetica
+<< /BaseFont /Helvetica
+ /Encoding /WinAnsiEncoding
+ /Name /F1
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F2': class PDFType1Font 
+3 0 obj
+% Font Helvetica-Bold
+<< /BaseFont /Helvetica-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F2
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Annot.NUMBER1': class PDFDictionary 
+4 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (mailto:godber@uberhip.com) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 76.61923
+ 166.376
+ 211.4392
+ 183.176 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER2': class PDFDictionary 
+5 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://github.com/godber/Python-Testing-Presentation) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 43.17323
+ 103.976
+ 375.4492
+ 120.776 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page1': class PDFPage 
+6 0 obj
+% Page dictionary
+<< /Annots [ 4 0 R
+ 5 0 R ]
+ /Contents 70 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 283.4646 ]
+ /Parent 69 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page2': class PDFPage 
+7 0 obj
+% Page dictionary
+<< /Contents 71 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 283.4646 ]
+ /Parent 69 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page3': class PDFPage 
+8 0 obj
+% Page dictionary
+<< /Contents 72 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 283.4646 ]
+ /Parent 69 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F3': class PDFType1Font 
+9 0 obj
+% Font Courier
+<< /BaseFont /Courier
+ /Encoding /WinAnsiEncoding
+ /Name /F3
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page4': class PDFPage 
+10 0 obj
+% Page dictionary
+<< /Contents 73 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 283.4646 ]
+ /Parent 69 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page5': class PDFPage 
+11 0 obj
+% Page dictionary
+<< /Contents 74 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 283.4646 ]
+ /Parent 69 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page6': class PDFPage 
+12 0 obj
+% Page dictionary
+<< /Contents 75 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 283.4646 ]
+ /Parent 69 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page7': class PDFPage 
+13 0 obj
+% Page dictionary
+<< /Contents 76 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 283.4646 ]
+ /Parent 69 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'F4': class PDFType1Font 
+14 0 obj
+% Font Courier-Bold
+<< /BaseFont /Courier-Bold
+ /Encoding /WinAnsiEncoding
+ /Name /F4
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'F5': class PDFType1Font 
+15 0 obj
+% Font Courier-Oblique
+<< /BaseFont /Courier-Oblique
+ /Encoding /WinAnsiEncoding
+ /Name /F5
+ /Subtype /Type1
+ /Type /Font >>
+endobj
+% 'Page8': class PDFPage 
+16 0 obj
+% Page dictionary
+<< /Contents 77 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 283.4646 ]
+ /Parent 69 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER3': class PDFDictionary 
+17 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://docs.python.org/release/2.7/library/unittest.html#unittest.TestCase) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 337.6652
+ 214.976
+ 401.4632
+ 231.776 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER4': class PDFDictionary 
+18 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://bitbucket.org/gregmalcolm/python_koans/wiki/Home) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 185.4572
+ 65.45774
+ 225.1472
+ 82.25774 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page9': class PDFPage 
+19 0 obj
+% Page dictionary
+<< /Annots [ 17 0 R
+ 18 0 R ]
+ /Contents 78 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 283.4646 ]
+ /Parent 69 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page10': class PDFPage 
+20 0 obj
+% Page dictionary
+<< /Contents 79 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 283.4646 ]
+ /Parent 69 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page11': class PDFPage 
+21 0 obj
+% Page dictionary
+<< /Contents 80 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 283.4646 ]
+ /Parent 69 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER5': class PDFDictionary 
+22 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://farmdev.com/projects/fixture/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 193.11
+ 144.776
+ 231.232
+ 161.576 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER6': class PDFDictionary 
+23 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://docs.djangoproject.com/en/dev/topics/testing/#fixture-loading) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 202.0272
+ 127.976
+ 295.3932
+ 144.776 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER7': class PDFDictionary 
+24 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.voidspace.org.uk/python/mock/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 276.5212
+ 53.77598
+ 309.9672
+ 70.57598 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER8': class PDFDictionary 
+25 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://code.google.com/p/pymox/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 317.7512
+ 53.77598
+ 344.1972
+ 70.57598 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page12': class PDFPage 
+26 0 obj
+% Page dictionary
+<< /Annots [ 22 0 R
+ 23 0 R
+ 24 0 R
+ 25 0 R ]
+ /Contents 81 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 283.4646 ]
+ /Parent 69 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER9': class PDFDictionary 
+27 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.logilab.org/project/pylint) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 20.17323
+ 214.976
+ 57.51123
+ 231.776 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER10': class PDFDictionary 
+28 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://pypi.python.org/pypi/pep8) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 20.17323
+ 140.776
+ 52.84923
+ 157.576 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page13': class PDFPage 
+29 0 obj
+% Page dictionary
+<< /Annots [ 27 0 R
+ 28 0 R ]
+ /Contents 82 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 283.4646 ]
+ /Parent 69 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page14': class PDFPage 
+30 0 obj
+% Page dictionary
+<< /Contents 83 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 283.4646 ]
+ /Parent 69 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER11': class PDFDictionary 
+31 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://docs.djangoproject.com/en/dev/topics/testing/#testing-tools) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 89.17323
+ 131.576
+ 204.3232
+ 148.376 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER12': class PDFDictionary 
+32 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.getwindmill.com/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 89.17323
+ 85.97598
+ 142.0512
+ 102.776 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER13': class PDFDictionary 
+33 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://seleniumhq.org/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 149.8352
+ 85.97598
+ 208.1872
+ 102.776 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER14': class PDFDictionary 
+34 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://lettuce.it/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 89.17323
+ 23.57598
+ 135.0932
+ 40.37598 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER15': class PDFDictionary 
+35 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (https://github.com/heynemann/pyccuracy/wiki/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 142.8772
+ 23.57598
+ 207.4452
+ 40.37598 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page15': class PDFPage 
+36 0 obj
+% Page dictionary
+<< /Annots [ 31 0 R
+ 32 0 R
+ 33 0 R
+ 34 0 R
+ 35 0 R ]
+ /Contents 84 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 283.4646 ]
+ /Parent 69 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page16': class PDFPage 
+37 0 obj
+% Page dictionary
+<< /Contents 85 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 283.4646 ]
+ /Parent 69 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page17': class PDFPage 
+38 0 obj
+% Page dictionary
+<< /Contents 86 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 283.4646 ]
+ /Parent 69 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Page18': class PDFPage 
+39 0 obj
+% Page dictionary
+<< /Contents 87 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 283.4646 ]
+ /Parent 69 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER16': class PDFDictionary 
+40 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://www.cheezyworld.com/2010/11/09/ui-tests-not-brittle/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 306.1912
+ 132.776
+ 389.4632
+ 149.576 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page19': class PDFPage 
+41 0 obj
+% Page dictionary
+<< /Annots [ 40 0 R ]
+ /Contents 88 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 283.4646 ]
+ /Parent 69 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'Annot.NUMBER17': class PDFDictionary 
+42 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://buildbot.net/trac) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 43.17323
+ 155.576
+ 419.1969
+ 172.376 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER18': class PDFDictionary 
+43 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://greatbigcrane.com/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 43.17323
+ 132.776
+ 419.1969
+ 149.576 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Annot.NUMBER19': class PDFDictionary 
+44 0 obj
+<< /A << /S /URI
+ /Type /Action
+ /URI (http://hudson-ci.org/) >>
+ /Border [ 0
+ 0
+ 0 ]
+ /Rect [ 43.17323
+ 109.976
+ 170.7972
+ 126.776 ]
+ /Subtype /Link
+ /Type /Annot >>
+endobj
+% 'Page20': class PDFPage 
+45 0 obj
+% Page dictionary
+<< /Annots [ 42 0 R
+ 43 0 R
+ 44 0 R ]
+ /Contents 89 0 R
+ /MediaBox [ 0
+ 0
+ 453.5433
+ 283.4646 ]
+ /Parent 69 0 R
+ /Resources << /Font 1 0 R
+ /ProcSet [ /PDF
+ /Text
+ /ImageB
+ /ImageC
+ /ImageI ] >>
+ /Rotate 0
+ /Trans <<  >>
+ /Type /Page >>
+endobj
+% 'R46': class PDFCatalog 
+46 0 obj
+% Document Root
+<< /Outlines 48 0 R
+ /PageLabels 90 0 R
+ /PageMode /UseNone
+ /Pages 69 0 R
+ /Type /Catalog >>
+endobj
+% 'R47': class PDFInfo 
+47 0 obj
+<< /Author ()
+ /CreationDate (D:20101206175820+05'00')
+ /Creator (\(unspecified\))
+ /Keywords ()
+ /Producer (ReportLab PDF Library - www.reportlab.com)
+ /Subject (\(unspecified\))
+ /Title () >>
+endobj
+% 'R48': class PDFOutlines 
+48 0 obj
+<< /Count 20
+ /First 49 0 R
+ /Last 68 0 R
+ /Type /Outlines >>
+endobj
+% 'Outline.0': class OutlineEntryObject 
+49 0 obj
+<< /Dest [ 6 0 R
+ /XYZ
+ 20.17323
+ 266.126
+ 0 ]
+ /Next 50 0 R
+ /Parent 48 0 R
+ /Title (Testing Python) >>
+endobj
+% 'Outline.1': class OutlineEntryObject 
+50 0 obj
+<< /Dest [ 7 0 R
+ /XYZ
+ 20.17323
+ 266.126
+ 0 ]
+ /Next 51 0 R
+ /Parent 48 0 R
+ /Prev 49 0 R
+ /Title (Motivation for Testing) >>
+endobj
+% 'Outline.2': class OutlineEntryObject 
+51 0 obj
+<< /Dest [ 8 0 R
+ /XYZ
+ 20.17323
+ 266.126
+ 0 ]
+ /Next 52 0 R
+ /Parent 48 0 R
+ /Prev 50 0 R
+ /Title (Testing Topics) >>
+endobj
+% 'Outline.3': class OutlineEntryObject 
+52 0 obj
+<< /Dest [ 10 0 R
+ /XYZ
+ 20.17323
+ 266.126
+ 0 ]
+ /Next 53 0 R
+ /Parent 48 0 R
+ /Prev 51 0 R
+ /Title (Unit Testing - Description) >>
+endobj
+% 'Outline.4': class OutlineEntryObject 
+53 0 obj
+<< /Dest [ 11 0 R
+ /XYZ
+ 20.17323
+ 266.126
+ 0 ]
+ /Next 54 0 R
+ /Parent 48 0 R
+ /Prev 52 0 R
+ /Title (Unit Testing - Concepts) >>
+endobj
+% 'Outline.5': class OutlineEntryObject 
+54 0 obj
+<< /Dest [ 12 0 R
+ /XYZ
+ 20.17323
+ 266.126
+ 0 ]
+ /Next 55 0 R
+ /Parent 48 0 R
+ /Prev 53 0 R
+ /Title (Unit Testing - Options) >>
+endobj
+% 'Outline.6': class OutlineEntryObject 
+55 0 obj
+<< /Dest [ 13 0 R
+ /XYZ
+ 20.17323
+ 266.126
+ 0 ]
+ /Next 56 0 R
+ /Parent 48 0 R
+ /Prev 54 0 R
+ /Title (Unit Testing - Example) >>
+endobj
+% 'Outline.7': class OutlineEntryObject 
+56 0 obj
+<< /Dest [ 16 0 R
+ /XYZ
+ 20.17323
+ 266.126
+ 0 ]
+ /Next 57 0 R
+ /Parent 48 0 R
+ /Prev 55 0 R
+ /Title (Unit Testing - Example) >>
+endobj
+% 'Outline.8': class OutlineEntryObject 
+57 0 obj
+<< /Dest [ 19 0 R
+ /XYZ
+ 20.17323
+ 266.126
+ 0 ]
+ /Next 58 0 R
+ /Parent 48 0 R
+ /Prev 56 0 R
+ /Title (Unit Testing - Assertions) >>
+endobj
+% 'Outline.9': class OutlineEntryObject 
+58 0 obj
+<< /Dest [ 20 0 R
+ /XYZ
+ 20.17323
+ 266.126
+ 0 ]
+ /Next 59 0 R
+ /Parent 48 0 R
+ /Prev 57 0 R
+ /Title (Example - Coverage) >>
+endobj
+% 'Outline.10': class OutlineEntryObject 
+59 0 obj
+<< /Dest [ 21 0 R
+ /XYZ
+ 20.17323
+ 266.126
+ 0 ]
+ /Next 60 0 R
+ /Parent 48 0 R
+ /Prev 58 0 R
+ /Title (Example - Pythoscope) >>
+endobj
+% 'Outline.11': class OutlineEntryObject 
+60 0 obj
+<< /Dest [ 26 0 R
+ /XYZ
+ 20.17323
+ 266.126
+ 0 ]
+ /Next 61 0 R
+ /Parent 48 0 R
+ /Prev 59 0 R
+ /Title (Fixtures and Mocks) >>
+endobj
+% 'Outline.12': class OutlineEntryObject 
+61 0 obj
+<< /Dest [ 29 0 R
+ /XYZ
+ 20.17323
+ 266.126
+ 0 ]
+ /Next 62 0 R
+ /Parent 48 0 R
+ /Prev 60 0 R
+ /Title (Example - Code Quality) >>
+endobj
+% 'Outline.13': class OutlineEntryObject 
+62 0 obj
+<< /Dest [ 30 0 R
+ /XYZ
+ 20.17323
+ 266.126
+ 0 ]
+ /Next 63 0 R
+ /Parent 48 0 R
+ /Prev 61 0 R
+ /Title (Fuzz Testing) >>
+endobj
+% 'Outline.14': class OutlineEntryObject 
+63 0 obj
+<< /Dest [ 36 0 R
+ /XYZ
+ 20.17323
+ 266.126
+ 0 ]
+ /Next 64 0 R
+ /Parent 48 0 R
+ /Prev 62 0 R
+ /Title (Web Testing) >>
+endobj
+% 'Outline.15': class OutlineEntryObject 
+64 0 obj
+<< /Dest [ 37 0 R
+ /XYZ
+ 20.17323
+ 266.126
+ 0 ]
+ /Next 65 0 R
+ /Parent 48 0 R
+ /Prev 63 0 R
+ /Title (Django Testing - Basic) >>
+endobj
+% 'Outline.16': class OutlineEntryObject 
+65 0 obj
+<< /Dest [ 38 0 R
+ /XYZ
+ 20.17323
+ 266.126
+ 0 ]
+ /Next 66 0 R
+ /Parent 48 0 R
+ /Prev 64 0 R
+ /Title (Django Testing - Run) >>
+endobj
+% 'Outline.17': class OutlineEntryObject 
+66 0 obj
+<< /Dest [ 39 0 R
+ /XYZ
+ 20.17323
+ 266.126
+ 0 ]
+ /Next 67 0 R
+ /Parent 48 0 R
+ /Prev 65 0 R
+ /Title (Django Testing - Test Client) >>
+endobj
+% 'Outline.18': class OutlineEntryObject 
+67 0 obj
+<< /Dest [ 41 0 R
+ /XYZ
+ 20.17323
+ 266.126
+ 0 ]
+ /Next 68 0 R
+ /Parent 48 0 R
+ /Prev 66 0 R
+ /Title (Testing with Lettuce) >>
+endobj
+% 'Outline.19': class OutlineEntryObject 
+68 0 obj
+<< /Dest [ 45 0 R
+ /XYZ
+ 20.17323
+ 266.126
+ 0 ]
+ /Parent 48 0 R
+ /Prev 67 0 R
+ /Title (Continuous Integration) >>
+endobj
+% 'R69': class PDFPages 
+69 0 obj
+% page tree
+<< /Count 20
+ /Kids [ 6 0 R
+ 7 0 R
+ 8 0 R
+ 10 0 R
+ 11 0 R
+ 12 0 R
+ 13 0 R
+ 16 0 R
+ 19 0 R
+ 20 0 R
+ 21 0 R
+ 26 0 R
+ 29 0 R
+ 30 0 R
+ 36 0 R
+ 37 0 R
+ 38 0 R
+ 39 0 R
+ 41 0 R
+ 45 0 R ]
+ /Type /Pages >>
+endobj
+% 'R70': class PDFStream 
+70 0 obj
+% page stream
+<< /Length 1819 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 236.726 cm
+q
+BT 1 0 0 1 0 4.9 Tm 29.4 TL /F2 24.5 Tf 0 0 0 rg (Testing Python) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 213.926 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Understanding testing in the Python World) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 207.926 cm
+Q
+q
+1 0 0 1 20.17323 207.926 cm
+Q
+q
+1 0 0 1 20.17323 191.126 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Austin Godber) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 185.126 cm
+Q
+q
+1 0 0 1 20.17323 168.326 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F1 14 Tf 0 0 0 rg (Mail: ) Tj 0 0 .501961 rg (godber@uberhip.com) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 162.326 cm
+Q
+q
+1 0 0 1 20.17323 145.526 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Twitter: @godber) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 139.526 cm
+Q
+q
+1 0 0 1 20.17323 105.926 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 13.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 19.6 Tm 16.8 TL /F1 14 Tf 0 0 0 rg (Source:) Tj T* 0 0 .501961 rg (http://github.com/godber/Python-Testing-Presentation) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 105.926 cm
+Q
+q
+1 0 0 1 20.17323 105.926 cm
+Q
+ 
+endstream
+endobj
+% 'R71': class PDFStream 
+71 0 obj
+% page stream
+<< /Length 1924 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 236.726 cm
+q
+BT 1 0 0 1 0 4.9 Tm 29.4 TL /F2 24.5 Tf 0 0 0 rg (Motivation for Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 224.726 cm
+Q
+q
+1 0 0 1 20.17323 224.726 cm
+Q
+q
+1 0 0 1 20.17323 207.926 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Does your code behave correctly to begin with?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 201.926 cm
+Q
+q
+1 0 0 1 20.17323 185.126 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (How about when you fix a bug?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 179.126 cm
+Q
+q
+1 0 0 1 20.17323 162.326 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (After you refactor?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 156.326 cm
+Q
+q
+1 0 0 1 20.17323 122.726 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 13.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.6 Tm /F1 14 Tf 16.8 TL .723966 Tw (After everyone who wrote it is gone, how do you know what) Tj T* 0 Tw (it was supposed to do in the first place?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 122.726 cm
+Q
+q
+1 0 0 1 20.17323 122.726 cm
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 45.78581 0 Td (Testing Python - \251 Austin Godber \(@godber\), 2010) Tj T* -45.78581 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R72': class PDFStream 
+72 0 obj
+% page stream
+<< /Length 2768 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 236.726 cm
+q
+BT 1 0 0 1 0 4.9 Tm 29.4 TL /F2 24.5 Tf 0 0 0 rg (Testing Topics) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 224.726 cm
+Q
+q
+1 0 0 1 20.17323 224.726 cm
+Q
+q
+1 0 0 1 20.17323 207.926 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Unit Testing) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 201.926 cm
+Q
+q
+1 0 0 1 20.17323 185.126 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Fixtures and Mocks) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 179.126 cm
+Q
+q
+1 0 0 1 20.17323 162.326 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Code Coverage and Code Quality) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 156.326 cm
+Q
+q
+1 0 0 1 20.17323 139.526 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Fuzz Testing) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 133.526 cm
+Q
+q
+1 0 0 1 20.17323 116.726 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Web Testing) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 110.726 cm
+Q
+q
+1 0 0 1 20.17323 93.92598 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Acceptance/Functional Testing) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 87.92598 cm
+Q
+q
+1 0 0 1 20.17323 71.12598 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Regression Tests) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 71.12598 cm
+Q
+q
+1 0 0 1 20.17323 71.12598 cm
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 45.78581 0 Td (Testing Python - \251 Austin Godber \(@godber\), 2010) Tj T* -45.78581 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R73': class PDFStream 
+73 0 obj
+% page stream
+<< /Length 2728 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 236.726 cm
+q
+BT 1 0 0 1 0 4.9 Tm 29.4 TL /F2 24.5 Tf 0 0 0 rg (Unit Testing - Description) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 224.726 cm
+Q
+q
+1 0 0 1 20.17323 224.726 cm
+Q
+q
+1 0 0 1 20.17323 168.326 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 36.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 36.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Testing the functionality of a small piece of application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 30.6 cm
+Q
+q
+1 0 0 1 23 30.6 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 13.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 19.6 Tm 2.356604 Tw 16.8 TL /F1 14 Tf 0 0 0 rg (Does ) Tj /F3 14 Tf (MyInteger.add\(2\) ) Tj /F1 14 Tf (return what it is supposed) Tj T* 0 Tw (to?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 162.326 cm
+Q
+q
+1 0 0 1 20.17323 77.12598 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 65.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 65.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Test Coverage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 59.4 cm
+Q
+q
+1 0 0 1 23 59.4 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 42.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 42.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (How much of the code is covered by existing tests?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 36.6 cm
+Q
+q
+1 0 0 1 23 36.6 cm
+Q
+q
+1 0 0 1 23 19.8 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Are all branches or code paths covered?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 13.8 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Are all functions/methods covered?) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 77.12598 cm
+Q
+q
+1 0 0 1 20.17323 77.12598 cm
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 45.78581 0 Td (Testing Python - \251 Austin Godber \(@godber\), 2010) Tj T* -45.78581 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R74': class PDFStream 
+74 0 obj
+% page stream
+<< /Length 1759 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 236.726 cm
+q
+BT 1 0 0 1 0 4.9 Tm 29.4 TL /F2 24.5 Tf 0 0 0 rg (Unit Testing - Concepts) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 213.926 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 14 Tf 16.8 TL (test fixture) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 194.126 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 6.8 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (setup and teardown for a collection of tests) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 173.326 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 14 Tf 16.8 TL (test case) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 153.526 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 6.8 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (the code that actually implements the tests) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 132.726 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 14 Tf 16.8 TL (test suite) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 112.926 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 6.8 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (a collection of test cases) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 92.12598 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 14 Tf 16.8 TL (test runner) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 72.32598 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 6.8 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (interface for running test cases or suites) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 72.32598 cm
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 45.78581 0 Td (Testing Python - \251 Austin Godber \(@godber\), 2010) Tj T* -45.78581 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R75': class PDFStream 
+75 0 obj
+% page stream
+<< /Length 3457 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 236.726 cm
+q
+BT 1 0 0 1 0 4.9 Tm 29.4 TL /F2 24.5 Tf 0 0 0 rg (Unit Testing - Options) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 224.726 cm
+Q
+q
+1 0 0 1 20.17323 224.726 cm
+Q
+q
+1 0 0 1 20.17323 185.126 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 19.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 19.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Built In Solutions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 13.8 cm
+Q
+q
+1 0 0 1 23 13.8 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf 0 0 0 rg (doctest) Tj /F1 14 Tf (, ) Tj /F3 14 Tf (unittest) Tj /F1 14 Tf (, ) Tj /F3 14 Tf (unittest2) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 185.126 cm
+Q
+q
+1 0 0 1 20.17323 179.126 cm
+Q
+q
+1 0 0 1 20.17323 179.126 cm
+Q
+q
+1 0 0 1 20.17323 139.526 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 19.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 19.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (3rd Party Alternatives) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 13.8 cm
+Q
+q
+1 0 0 1 23 13.8 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf 0 0 0 rg (py.test) Tj /F1 14 Tf (, ) Tj /F3 14 Tf (PyUnit) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 133.526 cm
+Q
+q
+1 0 0 1 20.17323 48.32598 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 65.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 65.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Testing Related Utils) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 59.4 cm
+Q
+q
+1 0 0 1 23 59.4 cm
+Q
+q
+1 0 0 1 23 42.6 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf 0 0 0 rg (nose ) Tj /F1 14 Tf (- Helps run tests) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 36.6 cm
+Q
+q
+1 0 0 1 23 19.8 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf 0 0 0 rg (coverage) Tj /F1 14 Tf (, ) Tj /F3 14 Tf (figleaf ) Tj /F1 14 Tf (- Testing Coverage) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 13.8 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf 0 0 0 rg (pythonscope ) Tj /F1 14 Tf (- Test generation) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 48.32598 cm
+Q
+q
+1 0 0 1 20.17323 48.32598 cm
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 45.78581 0 Td (Testing Python - \251 Austin Godber \(@godber\), 2010) Tj T* -45.78581 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R76': class PDFStream 
+76 0 obj
+% page stream
+<< /Length 1483 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 236.726 cm
+q
+BT 1 0 0 1 0 4.9 Tm 29.4 TL /F2 24.5 Tf 0 0 0 rg (Unit Testing - Example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 197.126 cm
+q
+BT 1 0 0 1 0 19.6 Tm 10.12594 Tw 16.8 TL /F1 14 Tf 0 0 0 rg (An example using ) Tj /F3 14 Tf (unittest2) Tj /F1 14 Tf (, ) Tj /F3 14 Tf (nose) Tj /F1 14 Tf (, ) Tj /F3 14 Tf (coverage) Tj /F1 14 Tf (, and) Tj T* 0 Tw /F3 14 Tf (pythonscope) Tj /F1 14 Tf (:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 142.326 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 397.8236 45.6 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.6 Tm /F3 14 Tf 16.8 TL (cd src/unittesting) Tj T* (nosetests --with-doctest -v) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 117.526 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Running manually, without help from nose:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 62.72598 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 397.8236 45.6 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.6 Tm /F3 14 Tf 16.8 TL (python -m doctest -v myinteger.py) Tj T* (PYTHONPATH=. python tests/test_myinteger.py) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 54.72598 cm
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 45.78581 0 Td (Testing Python - \251 Austin Godber \(@godber\), 2010) Tj T* -45.78581 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R77': class PDFStream 
+77 0 obj
+% page stream
+<< /Length 1964 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 236.726 cm
+q
+BT 1 0 0 1 0 4.9 Tm 29.4 TL /F2 24.5 Tf 0 0 0 rg (Unit Testing - Example) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 64.99618 cm
+q
+q
+.903586 0 0 .903586 0 0 cm
+q
+1 0 0 1 6.6 7.304229 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 440.4 180 re B*
+Q
+q
+BT 1 0 0 1 0 154 Tm 16.8 TL /F4 14 Tf 0 .501961 0 rg (import) Tj /F3 14 Tf 0 0 0 rg ( ) Tj /F4 14 Tf 0 0 1 rg (myinteger) Tj /F3 14 Tf .4 .4 .4 rg (,) Tj 0 0 0 rg ( ) Tj /F4 14 Tf 0 0 1 rg (unittest2) Tj /F3 14 Tf 0 0 0 rg  T*  T* /F4 14 Tf 0 .501961 0 rg (class) Tj /F3 14 Tf 0 0 0 rg ( ) Tj /F4 14 Tf 0 0 1 rg (TestMyInteger) Tj /F3 14 Tf 0 0 0 rg (\() Tj (unittest2) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (TestCase) Tj (\):) Tj  T* (    ) Tj /F4 14 Tf 0 .501961 0 rg (def) Tj /F3 14 Tf 0 0 0 rg ( ) Tj 0 0 1 rg (test_add_simple) Tj 0 0 0 rg (\() Tj 0 .501961 0 rg (self) Tj 0 0 0 rg (\):) Tj  T* (        ) Tj /F5 14 Tf .729412 .129412 .129412 rg ("""Make sure single digit addition works""") Tj /F3 14 Tf 0 0 0 rg  T* (        ) Tj (i) Tj ( ) Tj .4 .4 .4 rg (=) Tj 0 0 0 rg ( ) Tj (myinteger) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (MyInteger) Tj (\() Tj .4 .4 .4 rg (4) Tj 0 0 0 rg (\)) Tj  T* (        ) Tj 0 .501961 0 rg (self) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (assertEqual) Tj (\() Tj (i) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (add) Tj (\() Tj .4 .4 .4 rg (2) Tj 0 0 0 rg (\),) Tj ( ) Tj .4 .4 .4 rg (6) Tj 0 0 0 rg (\)) Tj  T*  T* /F4 14 Tf 0 .501961 0 rg (if) Tj /F3 14 Tf 0 0 0 rg ( ) Tj (__name__) Tj ( ) Tj .4 .4 .4 rg (==) Tj 0 0 0 rg ( ) Tj .729412 .129412 .129412 rg ('__main__') Tj 0 0 0 rg (:) Tj  T* (    ) Tj (unittest2) Tj .4 .4 .4 rg (.) Tj 0 0 0 rg (main) Tj (\(\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 56.99618 cm
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 45.78581 0 Td (Testing Python - \251 Austin Godber \(@godber\), 2010) Tj T* -45.78581 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R78': class PDFStream 
+78 0 obj
+% page stream
+<< /Length 1917 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 236.726 cm
+q
+BT 1 0 0 1 0 4.9 Tm 29.4 TL /F2 24.5 Tf 0 0 0 rg (Unit Testing - Assertions) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 213.926 cm
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F1 14 Tf 0 0 0 rg (The python unittest library is built around the set of ) Tj 0 0 .501961 rg (assertions) Tj 0 0 0 rg (:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 164.2956 cm
+q
+q
+.654566 0 0 .654566 0 0 cm
+q
+1 0 0 1 6.6 10.08301 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 608.4 62.4 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 36.4 Tm /F3 14 Tf 16.8 TL (assertTrue, assertEqual, assertAlmostEqual, assertGreater, assertIn,) Tj T* (assert***Equal, assertRaises, assertIsNone, assertIs, assertIsInstance,) Tj T* (assertFalse) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 139.4956 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (They take the arguments you would expect, plus a message.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 89.20774 cm
+q
+q
+.903586 0 0 .903586 0 0 cm
+q
+1 0 0 1 6.6 7.304229 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 440.4 45.6 re B*
+Q
+q
+BT 1 0 0 1 0 19.6 Tm 16.8 TL /F3 14 Tf 0 0 0 rg (assertTrue) Tj (\() Tj (i_return_true) Tj (\(\),) Tj ( ) Tj .729412 .129412 .129412 rg ("I should return True") Tj 0 0 0 rg (\)) Tj  T* (assertEqual) Tj (\() Tj (two) Tj (\(\),) Tj ( ) Tj .4 .4 .4 rg (2) Tj 0 0 0 rg (,) Tj ( ) Tj .729412 .129412 .129412 rg ("I should return two") Tj 0 0 0 rg (\)) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 64.40774 cm
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F1 14 Tf 0 0 0 rg (Remember Greg's Python ) Tj 0 0 .501961 rg (Koans) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 64.40774 cm
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 45.78581 0 Td (Testing Python - \251 Austin Godber \(@godber\), 2010) Tj T* -45.78581 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R79': class PDFStream 
+79 0 obj
+% page stream
+<< /Length 1086 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 236.726 cm
+q
+BT 1 0 0 1 0 4.9 Tm 29.4 TL /F2 24.5 Tf 0 0 0 rg (Example - Coverage) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 213.926 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (So how well does our existing test cover the MyInteger class?) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 146.1852 cm
+q
+q
+.939321 0 0 .939321 0 0 cm
+q
+1 0 0 1 6.6 7.026351 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 423.6 62.4 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 36.4 Tm /F3 14 Tf 16.8 TL (PYTHONPATH=. coverage run --source=myinteger.py \\) Tj T* (  tests/test_myinteger.py) Tj T* (coverage html) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 121.3852 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (There is a nose plugin for coverage that probably simplifies this.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 121.3852 cm
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 45.78581 0 Td (Testing Python - \251 Austin Godber \(@godber\), 2010) Tj T* -45.78581 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R80': class PDFStream 
+80 0 obj
+% page stream
+<< /Length 816 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 236.726 cm
+q
+BT 1 0 0 1 0 4.9 Tm 29.4 TL /F2 24.5 Tf 0 0 0 rg (Example - Pythoscope) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 213.926 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Lets generate the remaining tests:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 159.126 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 397.8236 45.6 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.6 Tm /F3 14 Tf 16.8 TL (pythoscope --init) Tj T* (pythoscope myinteger) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 151.126 cm
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 45.78581 0 Td (Testing Python - \251 Austin Godber \(@godber\), 2010) Tj T* -45.78581 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R81': class PDFStream 
+81 0 obj
+% page stream
+<< /Length 1705 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 236.726 cm
+q
+BT 1 0 0 1 0 4.9 Tm 29.4 TL /F2 24.5 Tf 0 0 0 rg (Fixtures and Mocks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 213.926 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 14 Tf 16.8 TL (Fixtures) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 126.926 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 74 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 70 Tm .943762 Tw 16.8 TL /F1 14 Tf 0 0 0 rg (Help setup testing environment for a set of tests with similar) Tj T* 0 Tw 1.994402 Tw (requirements. Create test objects, load test data into db. A) Tj T* 0 Tw 1.911958 Tw (simple setup fixture is seen in the MyInteger example. The) Tj T* 0 Tw 11.03694 Tw (third party module, ) Tj 0 0 .501961 rg (fixture) Tj 0 0 0 rg (, loads multiple database) Tj T* 0 Tw (backends. There are also ) Tj 0 0 .501961 rg (Django fixtures) Tj 0 0 0 rg (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 106.126 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 14 Tf 16.8 TL (Mocks) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 52.72598 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 40.4 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+BT 1 0 0 1 0 36.4 Tm 7.108703 Tw 16.8 TL /F1 14 Tf 0 0 0 rg (Emulate actions or objects that are too expensive or) Tj T* 0 Tw 12.68423 Tw (disruptive to perform during every test run. e.g.) Tj T* 0 Tw /F3 14 Tf (rocket.launch\(\) ) Tj /F1 14 Tf (See the module ) Tj 0 0 .501961 rg (Mock) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (mox) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 52.72598 cm
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 45.78581 0 Td (Testing Python - \251 Austin Godber \(@godber\), 2010) Tj T* -45.78581 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R82': class PDFStream 
+82 0 obj
+% page stream
+<< /Length 1347 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 236.726 cm
+q
+BT 1 0 0 1 0 4.9 Tm 29.4 TL /F2 24.5 Tf 0 0 0 rg (Example - Code Quality) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 213.926 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2.8 Tm /F2 14 Tf 16.8 TL (pylint) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 160.526 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 40.4 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 36.4 Tm /F1 14 Tf 16.8 TL 1.458232 Tw (Checks for errors, duplication, complexity and adherance to) Tj T* 0 Tw .232232 Tw (convention. Reports statistics on code composition and other) Tj T* 0 Tw (metrics. Provides an overall rating. Very opinionated.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 139.726 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2.8 Tm /F2 14 Tf 16.8 TL (pep8) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 103.126 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 23.6 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.6 Tm /F1 14 Tf 16.8 TL 3.117962 Tw (Does the code follow the PEP 8 style guide? Basic code) Tj T* 0 Tw (style checking.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 103.126 cm
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 45.78581 0 Td (Testing Python - \251 Austin Godber \(@godber\), 2010) Tj T* -45.78581 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R83': class PDFStream 
+83 0 obj
+% page stream
+<< /Length 732 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 236.726 cm
+q
+BT 1 0 0 1 0 4.9 Tm 29.4 TL /F2 24.5 Tf 0 0 0 rg (Fuzz Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 213.926 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F2 14 Tf 16.8 TL (Fuzz Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 194.126 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 0 6.8 Tm  T* ET
+q
+1 0 0 1 20 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Throws garbage at your interfaces to see if it breaks.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 194.126 cm
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 45.78581 0 Td (Testing Python - \251 Austin Godber \(@godber\), 2010) Tj T* -45.78581 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R84': class PDFStream 
+84 0 obj
+% page stream
+<< /Length 3442 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 236.726 cm
+q
+BT 1 0 0 1 0 4.9 Tm 29.4 TL /F2 24.5 Tf 0 0 0 rg (Web Testing) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 224.726 cm
+Q
+q
+1 0 0 1 20.17323 224.726 cm
+Q
+q
+1 0 0 1 20.17323 207.926 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Standard Tools Apply: unittest, doctest) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 207.926 cm
+Q
+q
+1 0 0 1 20.17323 201.926 cm
+Q
+q
+1 0 0 1 20.17323 201.926 cm
+Q
+q
+1 0 0 1 20.17323 31.52598 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 150.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 150.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Web Specific Tools) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 144.6 cm
+Q
+q
+1 0 0 1 23 144.6 cm
+Q
+q
+1 0 0 1 23 105 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 19.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 19.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Browser Emulation) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 13.8 cm
+Q
+q
+1 0 0 1 23 13.8 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F1 14 Tf 0 0 .501961 rg (Django Test Client) Tj  T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 99 cm
+Q
+q
+1 0 0 1 23 59.4 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 19.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 19.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Browser Drivers) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 13.8 cm
+Q
+q
+1 0 0 1 23 13.8 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F1 14 Tf 0 0 .501961 rg (Windmill) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (Selenium) Tj  T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 53.4 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 36.6 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 19.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.6 Tm /F1 14 Tf 16.8 TL 1.917937 Tw (Acceptance Test Frameworks, ATDD, BDD, Not strictly) Tj T* 0 Tw (web related.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 13.8 cm
+Q
+q
+1 0 0 1 23 13.8 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F1 14 Tf 0 0 .501961 rg (Lettuce) Tj 0 0 0 rg (, ) Tj 0 0 .501961 rg (Pyccuracy) Tj  T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 31.52598 cm
+Q
+q
+1 0 0 1 20.17323 31.52598 cm
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 45.78581 0 Td (Testing Python - \251 Austin Godber \(@godber\), 2010) Tj T* -45.78581 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R85': class PDFStream 
+85 0 obj
+% page stream
+<< /Length 1931 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 236.726 cm
+q
+BT 1 0 0 1 0 4.9 Tm 29.4 TL /F2 24.5 Tf 0 0 0 rg (Django Testing - Basic) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 213.926 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (The built in Django test runner looks for doctests or unittests in:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 207.926 cm
+Q
+q
+1 0 0 1 20.17323 207.926 cm
+Q
+q
+1 0 0 1 20.17323 174.326 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 13.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 19.6 Tm 8.56966 Tw 16.8 TL /F3 14 Tf 0 0 0 rg (models.py ) Tj /F1 14 Tf (- Runs docstrings and any subclass of) Tj T* 0 Tw (unittest.TestCase.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 168.326 cm
+Q
+q
+1 0 0 1 20.17323 134.726 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 13.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 19.6 Tm 9.76966 Tw 16.8 TL /F3 14 Tf 0 0 0 rg (tests.py ) Tj /F1 14 Tf (- Runs docstrings and any subclass of) Tj T* 0 Tw (unittest.TestCase.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 134.726 cm
+Q
+q
+1 0 0 1 20.17323 61.52598 cm
+q
+BT 1 0 0 1 0 53.2 Tm .920762 Tw 16.8 TL /F1 14 Tf 0 0 0 rg (Rather than one huge ) Tj /F3 14 Tf (tests.py ) Tj /F1 14 Tf (file, you can make a ) Tj /F3 14 Tf (tests) Tj T* 0 Tw 2.784162 Tw /F1 14 Tf (directory, place your tests in that directory and then load the) Tj T* 0 Tw 1.109762 Tw (tests in ) Tj /F3 14 Tf (tests/__init__.py) Tj /F1 14 Tf (. This is what I have done in the) Tj T* 0 Tw (example application.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 61.52598 cm
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 45.78581 0 Td (Testing Python - \251 Austin Godber \(@godber\), 2010) Tj T* -45.78581 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R86': class PDFStream 
+86 0 obj
+% page stream
+<< /Length 861 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 236.726 cm
+q
+BT 1 0 0 1 0 4.9 Tm 29.4 TL /F2 24.5 Tf 0 0 0 rg (Django Testing - Run) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 213.926 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (How to run?:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 125.526 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 397.8236 79.2 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 53.2 Tm /F3 14 Tf 16.8 TL (cd src/djangoblog) Tj T* (python ./manage.py test blog) Tj T* (# or test all with) Tj T* (python ./manage.py test) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 117.526 cm
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 45.78581 0 Td (Testing Python - \251 Austin Godber \(@godber\), 2010) Tj T* -45.78581 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R87': class PDFStream 
+87 0 obj
+% page stream
+<< /Length 2578 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 236.726 cm
+q
+BT 1 0 0 1 0 4.9 Tm 29.4 TL /F2 24.5 Tf 0 0 0 rg (Django Testing - Test Client) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 197.126 cm
+q
+BT 1 0 0 1 0 19.6 Tm .192937 Tw 16.8 TL /F3 14 Tf 0 0 0 rg (django.test.client ) Tj /F1 14 Tf (emulates browser actions but can peek) Tj T* 0 Tw (within the app itself.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 191.126 cm
+Q
+q
+1 0 0 1 20.17323 191.126 cm
+Q
+q
+1 0 0 1 20.17323 157.526 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 13.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 19.6 Tm 5.66566 Tw 16.8 TL /F1 14 Tf 0 0 0 rg (Does ) Tj /F3 14 Tf (get) Tj /F1 14 Tf (, ) Tj /F3 14 Tf (post) Tj /F1 14 Tf (, ) Tj /F3 14 Tf (put) Tj /F1 14 Tf (, ) Tj /F3 14 Tf (delete) Tj /F1 14 Tf (, ) Tj /F3 14 Tf (head) Tj /F1 14 Tf (, ) Tj /F3 14 Tf (options ) Tj /F1 14 Tf (plus) Tj T* 0 Tw (django auth ) Tj /F3 14 Tf (login ) Tj /F1 14 Tf (and ) Tj /F3 14 Tf (logout) Tj /F1 14 Tf (.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 151.526 cm
+Q
+q
+1 0 0 1 20.17323 72.32598 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 59.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 59.4 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (The response contains) Tj T* ET
+Q
+Q
+q
+1 0 0 1 23 53.4 cm
+Q
+q
+1 0 0 1 23 53.4 cm
+Q
+q
+1 0 0 1 23 19.8 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 13.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 19.6 Tm 4.911124 Tw 16.8 TL /F1 14 Tf 0 0 0 rg (Standard HTTP Stuff: ) Tj /F3 14 Tf (content) Tj /F1 14 Tf (, ) Tj /F3 14 Tf (status_code ) Tj /F1 14 Tf (and) Tj T* 0 Tw (dictionary of HTTP headers.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 13.8 cm
+Q
+q
+1 0 0 1 23 -3 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F1 14 Tf 0 0 0 rg (App Internal Stuff: ) Tj /F3 14 Tf (context) Tj /F1 14 Tf (, ) Tj /F3 14 Tf (template) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 72.32598 cm
+Q
+q
+1 0 0 1 20.17323 72.32598 cm
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 45.78581 0 Td (Testing Python - \251 Austin Godber \(@godber\), 2010) Tj T* -45.78581 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R88': class PDFStream 
+88 0 obj
+% page stream
+<< /Length 2381 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 236.726 cm
+q
+BT 1 0 0 1 0 4.9 Tm 29.4 TL /F2 24.5 Tf 0 0 0 rg (Testing with Lettuce) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 180.326 cm
+q
+BT 1 0 0 1 0 36.4 Tm 3.565362 Tw 16.8 TL /F1 14 Tf 0 0 0 rg (This just a brief introduction as I know my understanding is) Tj T* 0 Tw 25.66681 Tw (severly lacking. ) Tj /F3 14 Tf (src/djangoblog/blog/features/) Tj T* 0 Tw /F1 14 Tf (contains a basic example with the following issues.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 174.326 cm
+Q
+q
+1 0 0 1 20.17323 174.326 cm
+Q
+q
+1 0 0 1 20.17323 157.526 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F3 14 Tf 0 0 0 rg (world ) Tj /F1 14 Tf (is a global and I don't understand its scope) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 151.526 cm
+Q
+q
+1 0 0 1 20.17323 134.726 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F1 14 Tf 0 0 0 rg (Avoid repetitious and brittle code by using ) Tj 0 0 .501961 rg (page_objects) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 128.726 cm
+Q
+q
+1 0 0 1 20.17323 95.12598 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 13.8 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 19.6 Tm /F1 14 Tf 16.8 TL 2.119362 Tw (Browser drivers can be used in place of the django client,) Tj T* 0 Tw (and thus can test non-django apps.) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 95.12598 cm
+Q
+q
+1 0 0 1 20.17323 72.32598 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (Run with:) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 34.32598 cm
+q
+q
+1 0 0 1 0 0 cm
+q
+1 0 0 1 6.6 6.6 cm
+q
+.662745 .662745 .662745 RG
+.5 w
+.960784 .960784 .862745 rg
+n -6 -6 397.8236 28.8 re B*
+Q
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F3 14 Tf 16.8 TL (python manage.py harvest) Tj T* ET
+Q
+Q
+Q
+Q
+Q
+q
+1 0 0 1 20.17323 26.32598 cm
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 45.78581 0 Td (Testing Python - \251 Austin Godber \(@godber\), 2010) Tj T* -45.78581 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R89': class PDFStream 
+89 0 obj
+% page stream
+<< /Length 1791 >>
+stream
+1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
+q
+1 0 0 1 20.17323 236.726 cm
+q
+BT 1 0 0 1 0 4.9 Tm 29.4 TL /F2 24.5 Tf 0 0 0 rg (Continuous Integration) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 180.326 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 36.4 Tm /F1 14 Tf 16.8 TL 2.712135 Tw (A CI system will build a project and run tests against it after) Tj T* 0 Tw .662703 Tw (every commit. This provides continuous feedback on the quality) Tj T* 0 Tw (of your code.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 20.17323 174.326 cm
+Q
+q
+1 0 0 1 20.17323 174.326 cm
+Q
+q
+1 0 0 1 20.17323 157.526 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (http://buildbot.net/trac) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 151.526 cm
+Q
+q
+1 0 0 1 20.17323 134.726 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+0 0 .501961 rg
+0 0 .501961 RG
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL (http://greatbigcrane.com/) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 128.726 cm
+Q
+q
+1 0 0 1 20.17323 111.926 cm
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+q
+1 0 0 1 6 -3 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 9.1 0 Td (\177) Tj T* -9.1 0 Td ET
+Q
+Q
+q
+1 0 0 1 23 -3 cm
+q
+BT 1 0 0 1 0 2.8 Tm 16.8 TL /F1 14 Tf 0 0 .501961 rg (http://hudson-ci.org/ ) Tj 0 0 0 rg (\(Java\)) Tj T* ET
+Q
+Q
+q
+Q
+Q
+q
+1 0 0 1 20.17323 111.926 cm
+Q
+q
+1 0 0 1 14.17323 0 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 2.8 Tm /F1 14 Tf 16.8 TL 45.78581 0 Td (Testing Python - \251 Austin Godber \(@godber\), 2010) Tj T* -45.78581 0 Td ET
+Q
+Q
+ 
+endstream
+endobj
+% 'R90': class PDFPageLabels 
+90 0 obj
+% Document Root
+<< /Nums [ 0
+ 91 0 R
+ 1
+ 92 0 R
+ 2
+ 93 0 R
+ 3
+ 94 0 R
+ 4
+ 95 0 R
+ 5
+ 96 0 R
+ 6
+ 97 0 R
+ 7
+ 98 0 R
+ 8
+ 99 0 R
+ 9
+ 100 0 R
+ 10
+ 101 0 R
+ 11
+ 102 0 R
+ 12
+ 103 0 R
+ 13
+ 104 0 R
+ 14
+ 105 0 R
+ 15
+ 106 0 R
+ 16
+ 107 0 R
+ 17
+ 108 0 R
+ 18
+ 109 0 R
+ 19
+ 110 0 R ] >>
+endobj
+% 'R91': class PDFPageLabel 
+91 0 obj
+% None
+<< /S /D
+ /St 1 >>
+endobj
+% 'R92': class PDFPageLabel 
+92 0 obj
+% None
+<< /S /D
+ /St 2 >>
+endobj
+% 'R93': class PDFPageLabel 
+93 0 obj
+% None
+<< /S /D
+ /St 3 >>
+endobj
+% 'R94': class PDFPageLabel 
+94 0 obj
+% None
+<< /S /D
+ /St 4 >>
+endobj
+% 'R95': class PDFPageLabel 
+95 0 obj
+% None
+<< /S /D
+ /St 5 >>
+endobj
+% 'R96': class PDFPageLabel 
+96 0 obj
+% None
+<< /S /D
+ /St 6 >>
+endobj
+% 'R97': class PDFPageLabel 
+97 0 obj
+% None
+<< /S /D
+ /St 7 >>
+endobj
+% 'R98': class PDFPageLabel 
+98 0 obj
+% None
+<< /S /D
+ /St 8 >>
+endobj
+% 'R99': class PDFPageLabel 
+99 0 obj
+% None
+<< /S /D
+ /St 9 >>
+endobj
+% 'R100': class PDFPageLabel 
+100 0 obj
+% None
+<< /S /D
+ /St 10 >>
+endobj
+% 'R101': class PDFPageLabel 
+101 0 obj
+% None
+<< /S /D
+ /St 11 >>
+endobj
+% 'R102': class PDFPageLabel 
+102 0 obj
+% None
+<< /S /D
+ /St 12 >>
+endobj
+% 'R103': class PDFPageLabel 
+103 0 obj
+% None
+<< /S /D
+ /St 13 >>
+endobj
+% 'R104': class PDFPageLabel 
+104 0 obj
+% None
+<< /S /D
+ /St 14 >>
+endobj
+% 'R105': class PDFPageLabel 
+105 0 obj
+% None
+<< /S /D
+ /St 15 >>
+endobj
+% 'R106': class PDFPageLabel 
+106 0 obj
+% None
+<< /S /D
+ /St 16 >>
+endobj
+% 'R107': class PDFPageLabel 
+107 0 obj
+% None
+<< /S /D
+ /St 17 >>
+endobj
+% 'R108': class PDFPageLabel 
+108 0 obj
+% None
+<< /S /D
+ /St 18 >>
+endobj
+% 'R109': class PDFPageLabel 
+109 0 obj
+% None
+<< /S /D
+ /St 19 >>
+endobj
+% 'R110': class PDFPageLabel 
+110 0 obj
+% None
+<< /S /D
+ /St 20 >>
+endobj
+xref
+0 111
+0000000000 65535 f
+0000000113 00000 n
+0000000259 00000 n
+0000000424 00000 n
+0000000611 00000 n
+0000000852 00000 n
+0000001106 00000 n
+0000001413 00000 n
+0000001692 00000 n
+0000001973 00000 n
+0000002132 00000 n
+0000002412 00000 n
+0000002692 00000 n
+0000002972 00000 n
+0000003254 00000 n
+0000003426 00000 n
+0000003602 00000 n
+0000003896 00000 n
+0000004187 00000 n
+0000004447 00000 n
+0000004758 00000 n
+0000005039 00000 n
+0000005333 00000 n
+0000005583 00000 n
+0000005868 00000 n
+0000006127 00000 n
+0000006364 00000 n
+0000006706 00000 n
+0000006961 00000 n
+0000007197 00000 n
+0000007508 00000 n
+0000007803 00000 n
+0000008087 00000 n
+0000008333 00000 n
+0000008574 00000 n
+0000008812 00000 n
+0000009062 00000 n
+0000009400 00000 n
+0000009681 00000 n
+0000009962 00000 n
+0000010257 00000 n
+0000010520 00000 n
+0000010836 00000 n
+0000011078 00000 n
+0000011321 00000 n
+0000011546 00000 n
+0000011866 00000 n
+0000012025 00000 n
+0000012273 00000 n
+0000012399 00000 n
+0000012572 00000 n
+0000012768 00000 n
+0000012956 00000 n
+0000013157 00000 n
+0000013355 00000 n
+0000013552 00000 n
+0000013749 00000 n
+0000013946 00000 n
+0000014146 00000 n
+0000014340 00000 n
+0000014536 00000 n
+0000014730 00000 n
+0000014928 00000 n
+0000015116 00000 n
+0000015303 00000 n
+0000015501 00000 n
+0000015697 00000 n
+0000015901 00000 n
+0000016097 00000 n
+0000016263 00000 n
+0000016540 00000 n
+0000018458 00000 n
+0000020481 00000 n
+0000023348 00000 n
+0000026175 00000 n
+0000028033 00000 n
+0000031589 00000 n
+0000033171 00000 n
+0000035234 00000 n
+0000037250 00000 n
+0000038435 00000 n
+0000039349 00000 n
+0000041153 00000 n
+0000042599 00000 n
+0000043429 00000 n
+0000046970 00000 n
+0000049000 00000 n
+0000049959 00000 n
+0000052636 00000 n
+0000055116 00000 n
+0000057010 00000 n
+0000057371 00000 n
+0000057448 00000 n
+0000057525 00000 n
+0000057602 00000 n
+0000057679 00000 n
+0000057756 00000 n
+0000057833 00000 n
+0000057910 00000 n
+0000057987 00000 n
+0000058065 00000 n
+0000058145 00000 n
+0000058225 00000 n
+0000058305 00000 n
+0000058385 00000 n
+0000058465 00000 n
+0000058545 00000 n
+0000058625 00000 n
+0000058705 00000 n
+0000058785 00000 n
+0000058865 00000 n
+trailer
+<< /ID 
+ % ReportLab generated PDF document -- digest (http://www.reportlab.com) 
+ [(\355\031PH\371\035\310\350T\273P\315\007b5T) (\355\031PH\371\035\310\350T\273P\315\007b5T)] 
+
+ /Info 47 0 R
+ /Root 46 0 R
+ /Size 111 >>
+startxref
+58914
+%%EOF
